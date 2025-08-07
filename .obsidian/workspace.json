@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Diet Protocol.md",
+                "file": "AI Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Diet Protocol"
+              "title": "AI Prompt"
             }
           }
         ],
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Diet Protocol.md",
+                "file": "AI Prompt.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +133,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Diet Protocol"
+              "title": "Backlinks for AI Prompt"
             }
           },
           {
@@ -142,12 +142,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Diet Protocol.md",
+                "file": "AI Prompt.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Diet Protocol"
+              "title": "Outgoing links from AI Prompt"
             }
           },
           {
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Diet Protocol.md",
+                "file": "AI Prompt.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Diet Protocol"
+              "title": "Outline of AI Prompt"
             }
           }
         ]
@@ -199,9 +199,9 @@
   },
   "active": "bfc8f12006e932f5",
   "lastOpenFiles": [
+    "Diet Protocol.md",
     "AI Prompt.md",
     "Strategy.md",
-    "Diet Protocol.md",
     "Assessment/Holistic Assessment.md",
     "Exercise Log.md",
     "Food Log.md",
