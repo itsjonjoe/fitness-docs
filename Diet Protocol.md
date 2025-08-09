@@ -21,7 +21,7 @@ The Diet Protocol is the nutritional engine of Project Viking. This protocol is 
 **Meal 2 (6pm/Post-Gym):**
 
 - **500g Greek yogurt**
-- **6 chicken legs** (600g raw weight, skin-on)
+- **2 chicken legs** (275g x 2 raw weight, skin-on)
 
 ### **2.3 Approved Beverages**
 

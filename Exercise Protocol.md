@@ -48,19 +48,22 @@
 
 **Morning:** Execute Morning Readiness Protocol **Evening Training:**
 
-- Preacher Curls (GVT): 10 sets of 10 reps @ 30 kg
-- Triceps Push Downs: 4 sets of 10-12 reps @ 30-36 kg
-- Cable Overheads: 3 sets of 12-15 reps @ 30 kg
+- GVT Seated Bicep Curls 10x10 @ 14kg
+- GVT Seated Hammer Curls 10x10 @ 14kg
+- Preacher Curls 5x8 @ 30kg
+- Tricep Pushdowns Pyrmid Start @ 47.5lbs end at 97.5lbs
+- Tricep Pushdowns Pyrmid Start @ 97.5lbs end at 47.5lbs
+- Tricep overhead pull 5x10 67.5lbs
 
 ### **Saturday: Weak Point "Pump" Day (Chest/Shoulders)**
 
 **Morning:** Execute Morning Readiness Protocol **Evening Training:**
 
-- Machine Incline Chest Press: 4 sets of 15 reps @ 50-60 kg
-- Cable Crossovers: 4 sets of 15 reps @ 15-20 kg per side
-- Cable Lateral Raises: 5 sets of 20 reps @ 5-7 kg per side
-- Dumbbell Front Raises: 3 sets of 15 reps @ 6-8 kg
-
+- **Incline Dumbbell Press:** 4 sets of 6-8 reps @ 32kg
+- **Flat Dumbbell Press:** 3 sets of 10-12 reps @ 30kg
+- **Seated Lateral Raises:** 5 sets of 15-20 reps @ 8-10kg
+- **Dumbbell Front Raises:** 3 sets of 15 reps @ 6kg
+- **Flat Dumbbell Flys:** 4 sets of 15 reps @ 20kg
 ### **Sunday: Active Recovery**
 
 **Morning:** Execute Morning Readiness Protocol (Extended to 15 minutes if desired) **Day Focus:** Complete rest from resistance training, prioritize sleep and nutrition optimization

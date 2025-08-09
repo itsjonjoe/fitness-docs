@@ -1,3 +1,35 @@
+
+
+## 2025-08-08 - Extended Walk
+
+|Date|Exercise|Duration|Notes|
+|---|---|---|---|
+|2025-08-08|Extended Walk|1 hour|
+
+## 2025-08-08 - Session
+
+|Exercise|Sets|Reps|Weight (kg)|Notes|
+|---|---|---|---|---|
+|Seated Bicep Curls (GVT)|10|10|14||
+|Seated Hammer Curls (GVT)|10|10|14||
+|Preacher Curls|5|8|30||
+|Preacher Curls|1|4|40|NEW RECORD 1RM|
+|Preacher Curls|2|6|35||
+|Preacher Curls|1|6|32.5||
+|Tricep Pushdowns|1|20|21.5|Pyramid Set|
+|Tricep Pushdowns|1|12|26|Pyramid Set|
+|Tricep Pushdowns|1|10|30.5|Pyramid Set|
+|Tricep Pushdowns|1|8|35|Pyramid Set|
+|Tricep Pushdowns|1|6|39.5|Pyramid Set|
+|Tricep Pushdowns|2|4|44|Pyramid Set|
+|Tricep Pushdowns|1|6|39.5|Pyramid Set|
+|Tricep Pushdowns|1|8|35|Pyramid Set|
+|Tricep Pushdowns|1|10|30.5|Pyramid Set|
+|Tricep Pushdowns|1|12|26|Pyramid Set|
+|Tricep Pushdowns|1|20|21.5|Pyramid Set|
+|Tricep Overhead Pull|5|10|30.5||
+
+
 | Date       | Exercise                  | Sets | Reps | Weight (kg) | Notes        |
 | :--------- | :------------------------ | ---: | ---: | ----------: | :----------- |
 | 2025-06-28 | Leg Extensions            |    5 |   10 |          60 |              |
