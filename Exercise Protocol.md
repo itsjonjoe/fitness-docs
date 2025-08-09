@@ -16,7 +16,6 @@
 
 - Barbell Bench Press (GVT): 10 sets of 10 reps @ 60 kg
 - Incline Dumbbell Flys: 3 sets of 12-15 reps @ 20 kg
-
 ### **Tuesday: Back (V-Shape Development)**
 
 **Morning:** Execute Morning Readiness Protocol **Evening Training:**
@@ -30,17 +29,17 @@
 
 **Morning:** Execute Morning Readiness Protocol **Evening Training:**
 
-- Seated Dumbbell Shoulder Press: 4 sets of 8-10 reps @ 28-30 kg
-- Seated Lateral Raises: 5 sets of 12-15 reps @ 8 kg
-- Barbell Upright Rows: 4 sets of 10-12 reps @ 30-35 kg
-- Reverse Pec-Deck or Dumbbell Rear Delt Flys: 4 sets of 15 reps @ 6-8 kg
+- Seated Dumbbell Shoulder Press: 4 sets of 8-10 reps @ 28-30kg
+- Seated Lateral Raises: 5 sets of 12-15 reps @ 8kg
+- Barbell Upright Rows: 4 sets of 10-12 reps @ 30-35kg
+- Reverse Pec-Deck or Dumbbell Rear Delt Flys: 4 sets of 15 reps @ 6-8kg
 
 ### **Thursday: Legs (Hormonal Response Protocol)**
 
 **Morning:** Execute Morning Readiness Protocol **Evening Training:**
 
-- Barbell Back Squats: 5 sets of 8-10 reps @ 100 kg
-- Romanian Deadlifts (RDLs): 4 sets of 10-12 reps @ 70 kg
+- Barbell Back Squats: 5 sets of 8-10 reps @ 100kg
+- Romanian Deadlifts (RDLs): 4 sets of 10-12 reps @ 70kg
 - Standing Lunges: 3 sets of 12 reps per leg @ 16 kg dumbbells
 - Leg Extensions (Triple Drop Set): 3 sets to failure, starting @ 50 kg
 
@@ -61,7 +60,7 @@
 
 - **Incline Dumbbell Press:** 4 sets of 6-8 reps @ 32kg
 - **Flat Dumbbell Press:** 3 sets of 10-12 reps @ 30kg
-- **Seated Lateral Raises:** 5 sets of 15-20 reps @ 8-10kg
+- **Seated Lateral Raises:** 5 sets of 15-20 reps @ 8kg-10kg
 - **Dumbbell Front Raises:** 3 sets of 15 reps @ 6kg
 - **Flat Dumbbell Flys:** 4 sets of 15 reps @ 20kg
 ### **Sunday: Active Recovery**
