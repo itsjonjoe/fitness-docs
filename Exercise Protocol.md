@@ -1,68 +1,92 @@
-**Execution Window:** Immediately upon waking, before breakfast **Intensity Standard:** Conversational pace, restorative focus **Override Condition:** Skip if recovery score ≤6/10
+### **MONDAY: CHEST (GVT PRIORITY)**
 
-#### **Core Movement Sequence:**
+_Morning Readiness Protocol (~10 mins): ~34 KCAL_ _1 Hour Fast Walk (3.0 mph): ~362 KCAL_
 
-1. **Cat-Cow Stretches:** 10 slow repetitions
-2. **Arm Circles:** 10 forward, 10 backward (each arm)
-3. **Bodyweight Squats:** 10-15 slow, controlled reps
-4. **Standing Forward Fold:** 30-second hold
-5. **Shoulder Blade Squeezes:** 10 repetitions
-6. **Gentle Neck Rolls:** 5 each direction
-7. **Deep Breathing:** 5 slow, controlled breaths
+|EXERCISE|SETSxREPS|WEIGHT RANGE|KCAL|
+|---|---|---|---|
+|Barbell Bench Press (GVT)|10x10|60kg|~137|
+|Incline Dumbbell Flys|3x12-15|20kg|~44|
+|||**Total KCAL:**|**~577**|
 
-### **Monday: Chest (GVT Priority)**
+Export to Sheets
 
-**Morning:** Execute Morning Readiness Protocol **Evening Training:**
+### **TUESDAY: BACK (V-SHAPE DEVELOPMENT)**
 
-- Barbell Bench Press (GVT): 10 sets of 10 reps @ 60 kg
-- Incline Dumbbell Flys: 3 sets of 12-15 reps @ 20 kg
-### **Tuesday: Back (V-Shape Development)**
+_Morning Readiness Protocol (~10 mins): ~34 KCAL_ _1 
+Hour Fast Walk (3.0 mph): ~362 KCAL_
 
-**Morning:** Execute Morning Readiness Protocol **Evening Training:**
+|EXERCISE|SETSxREPS|WEIGHT RANGE|KCAL|
+|---|---|---|---|
+|Wide-Grip Lat Pull Downs|5x8-12|70kg|~63|
+|Barbell Rows|5x8-10|60kg|~63|
+|Dumbbell Pullovers|3x12-15|26kg|~44|
+|Face Pulls|4x15-20|25kg|~58|
+|||**Total KCAL:**|**~624**|
 
-- Wide-Grip Lat Pull Downs: 5 sets of 8-12 reps @ 70 kg
-- Barbell Rows: 5 sets of 8-10 reps @ 60 kg
-- Dumbbell Pullovers: 3 sets of 12-15 reps @ 26 kg
-- Face Pulls: 4 sets of 15-20 reps @ 25 kg
+Export to Sheets
 
-### **Wednesday: Shoulders (High Volume/Intensity)**
+### **WEDNESDAY: SHOULDERS (HIGH VOLUME/INTENSITY)**
 
-**Morning:** Execute Morning Readiness Protocol **Evening Training:**
+_Morning Readiness Protocol (~10 mins): ~34 KCAL_ _1 
+Hour Fast Walk (3.0 mph): ~362 KCAL_
 
-- Seated Dumbbell Shoulder Press: 4 sets of 8-10 reps @ 28-30kg
-- Seated Lateral Raises: 5 sets of 12-15 reps @ 8kg
-- Barbell Upright Rows: 4 sets of 10-12 reps @ 30-35kg
-- Reverse Pec-Deck or Dumbbell Rear Delt Flys: 4 sets of 15 reps @ 6-8kg
+|EXERCISE|SETSxREPS|WEIGHT RANGE|KCAL|
+|---|---|---|---|
+|Seated Dumbbell Shoulder Press|4x8-10|28-30kg|~54|
+|Seated Lateral Raises|5x12-15|8kg|~66|
+|Barbell Upright Rows|4x10-12|30-35kg|~54|
+|Reverse Pec-Deck / Rear Delt Flys|4x15|6-8kg|~54|
+|||**Total KCAL:**|**~624**|
 
-### **Thursday: Legs (Hormonal Response Protocol)**
+Export to Sheets
 
-**Morning:** Execute Morning Readiness Protocol **Evening Training:**
+### **THURSDAY: LEGS (HORMONAL RESPONSE PROTOCOL)**
 
-- Barbell Back Squats: 5 sets of 8-10 reps @ 100kg
-- Romanian Deadlifts (RDLs): 4 sets of 10-12 reps @ 70kg
-- Standing Lunges: 3 sets of 12 reps per leg @ 16 kg dumbbells
-- Leg Extensions (Triple Drop Set): 3 sets to failure, starting @ 50 kg
+_Morning Readiness Protocol (~10 mins): ~34 KCAL_ _1 
+Hour Fast Walk (3.0 mph): ~362 KCAL_
 
-### **Friday: Arms (Biceps GVT Priority)**
+|EXERCISE|SETSxREPS|WEIGHT RANGE|KCAL|
+|---|---|---|---|
+|Barbell Back Squats|5x8-10|100kg|~69|
+|Romanian Deadlifts (RDLs)|4x10-12|70kg|~54|
+|Standing Lunges|3x12 (per leg)|16kg|~48|
+|Leg Extensions (Triple Drop Set)|3xFailure|50kg|~40|
+|||**Total KCAL:**|**~607**|
 
-**Morning:** Execute Morning Readiness Protocol **Evening Training:**
+Export to Sheets
 
-- GVT Seated Bicep Curls 10x10 @ 14kg
-- GVT Seated Hammer Curls 10x10 @ 14kg
-- Preacher Curls 5x8 @ 30kg
-- Tricep Pushdowns Pyrmid Start @ 47.5lbs end at 97.5lbs
-- Tricep Pushdowns Pyrmid Start @ 97.5lbs end at 47.5lbs
-- Tricep overhead pull 5x10 67.5lbs
+### **FRIDAY: ARMS (BICEPS GVT PRIORITY)**
 
-### **Saturday: Weak Point "Pump" Day (Chest/Shoulders)**
+_Morning Readiness Protocol (~10 mins): ~34 KCAL_ _1 
+Hour Fast Walk (3.0 mph): ~362 KCAL_
 
-**Morning:** Execute Morning Readiness Protocol **Evening Training:**
+|EXERCISE|SETSxREPS|WEIGHT RANGE|KCAL|
+|---|---|---|---|
+|GVT Seated Bicep Curls|10x10|14kg|~137|
+|GVT Seated Hammer Curls|10x10|14kg|~137|
+|Preacher Curls|5x8|30kg|~60|
+|Tricep Pushdowns Pyramid|Up & Down|47.5-97.5lbs|~156|
+|Tricep Overhead Pull|5x10|67.5lbs|~63|
+|||**Total KCAL:**|**~949**|
 
-- **Incline Dumbbell Press:** 4 sets of 6-8 reps @ 32kg
-- **Flat Dumbbell Press:** 3 sets of 10-12 reps @ 30kg
-- **Seated Lateral Raises:** 5 sets of 15-20 reps @ 8kg-10kg
-- **Dumbbell Front Raises:** 3 sets of 15 reps @ 6kg
-- **Flat Dumbbell Flys:** 4 sets of 15 reps @ 20kg
-### **Sunday: Active Recovery**
+Export to Sheets
 
-**Morning:** Execute Morning Readiness Protocol (Extended to 15 minutes if desired) **Day Focus:** Complete rest from resistance training, prioritize sleep and nutrition optimization
+### **SATURDAY: WEAK POINT "PUMP" DAY (CHEST/SHOULDERS)**
+
+_Morning Readiness Protocol (~10 mins): ~34 KCAL_ _1 
+Hour Fast Walk (3.0 mph): ~362 KCAL_
+
+|EXERCISE|SETSxREPS|WEIGHT RANGE|KCAL|
+|---|---|---|---|
+|Incline Dumbbell Press|4x6-8|32kg|~57|
+|Flat Dumbbell Press|3x10-12|30kg|~44|
+|Seated Lateral Raises|5x15-20|8-10kg|~72|
+|Dumbbell Front Raises|3x15|6kg|~44|
+|Flat Dumbbell Flys|4x15|20kg|~54|
+|||**Total KCAL:**|**~667**|
+
+Export to Sheets
+
+### **SUNDAY: ACTIVE RECOVERY**
+
+_Morning Readiness Protocol (~15 mins): ~51 KCAL_ _1 Hour Fast Walk (3.0 mph): ~362 KCAL_ **Day Focus:** Complete rest from resistance training. Prioritize sleep and nutrition optimization. | | **Total KCAL:** | **~413** |

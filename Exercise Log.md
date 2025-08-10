@@ -1,4 +1,19 @@
 
+## 2025-08-10 - Extended Walk
+
+| Date       | Exercise      | Duration | Notes           |
+| ---------- | ------------- | -------- | --------------- |
+| 2025-08-10 | Extended Walk | 3 hours  | Active Recovery |
+
+## 2025-08-09 - Session
+
+| Exercise               | Sets | Reps | Weight (kg) | Notes |
+| ---------------------- | ---- | ---- | ----------- | ----- |
+| Incline Dumbbell Press | 4    | 8    | 32          |       |
+| Flat Dumbbell Press    | 3    | 12   | 30          |       |
+| Seated Lateral Raises  | 5    | 20   | 8           |       |
+| Dumbbell Front Raises  | 3    | 15   | 6           |       |
+| Flat Dumbbell Flys     | 4    | 15   | 20          |       |
 
 ## 2025-08-08 - Extended Walk
 
