@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "91b9451a273c9102",
+        "id": "6f59956669c11a4f",
         "type": "tabs",
         "children": [
           {
-            "id": "881d793e7150ba5a",
+            "id": "121fe6c5c0e4cd02",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "AI Prompt.md",
-                "mode": "source",
-                "source": false
+                "aFile": "=-0m9.md",
+                "bFile": "=-0m9.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "AI Prompt"
+              "icon": "diff",
+              "title": "Diff: =-0m9"
             }
           }
         ]
@@ -176,17 +176,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "881d793e7150ba5a",
+  "active": "40a6a183d208b702",
   "lastOpenFiles": [
-    "Strategy.md",
+    "Assessment/Holistic Assessment.md",
+    "Exercise Protocol.md",
+    "Diet Protocol.md",
+    "=-0m9.md",
+    "6.md",
+    "AI Prompt.md",
     "Logs/Food Log.md",
     "Logs/Exercise Log.md",
     "Logs/Weight Log.md",
-    "Diet Protocol.md",
     "Logs",
-    "AI Prompt.md",
-    "Exercise Protocol.md",
-    "Assessment/Holistic Assessment.md",
     "Assessment/Macular Dystrophy Assessment.md",
     "Assessment"
   ]

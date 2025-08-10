@@ -134,9 +134,7 @@ Use only these core documents from [https://github.com/itsjonjoe/fitness-docs](h
     
 - Nutrition logs: daily intake formatted with date header in Markdown
     
-- Zero tolerance for data inconsistencies
-    
-- Maintain clear distinctions between formal training, adhoc exercise, walking, and morning routines
+- Zero tolerance for data inconsistencies8😏😩😳😁 😍- Maintain clear distinctions between formal training, adhoc exercise, walking, and morning routines
     
 - Prompt immediately for missing logs before further analysis
     
