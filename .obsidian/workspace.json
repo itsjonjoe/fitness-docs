@@ -11,14 +11,14 @@
             "id": "121fe6c5c0e4cd02",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "=-0m9.md",
-                "bFile": "=-0m9.md",
-                "aRef": ""
+                "file": "Supplements Protocol.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: =-0m9"
+              "icon": "lucide-file",
+              "title": "Supplements Protocol"
             }
           }
         ]
@@ -176,14 +176,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "40a6a183d208b702",
+  "active": "121fe6c5c0e4cd02",
   "lastOpenFiles": [
+    "Diet Protocol.md",
+    "Supplements Protocol.md",
+    "AI Prompt.md",
+    "Strategy.md",
+    "6.md",
     "Assessment/Holistic Assessment.md",
     "Exercise Protocol.md",
-    "Diet Protocol.md",
-    "=-0m9.md",
-    "6.md",
-    "AI Prompt.md",
     "Logs/Food Log.md",
     "Logs/Exercise Log.md",
     "Logs/Weight Log.md",

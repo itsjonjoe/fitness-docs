@@ -1,12 +1,12 @@
 
 ## **Meal Timing & Structure**
 
-|Time|Meal Description|
-|---|---|
-|**12:00–13:00 (Pre-Gym Meal)**|3 medium scrambled eggs + 50g cottage cheese + 100g raw spinach + 3 slices buttered brown seeded toast + ½ avocado|
-|**15:30–16:30 (Post-Gym Meal)**|3 medium scrambled eggs + 50g cottage cheese + 100g raw spinach + 3 slices buttered brown seeded toast + ½ avocado|
-|**18:00 (Evening Meal 1)**|500g fat-free Greek yogurt|
-|**19:00 (Evening Meal 2)**|2 oven-cooked chicken legs (550g raw weight, skin-on, with olive oil rub) + 100g dry brown rice (cooked weight ~300g)|
+| Time                            | Meal Description                                                                                                      |
+| ------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| **12:00–13:00 (Pre-Gym Meal)**  | 3 medium scrambled eggs + 50g cottage cheese + 100g raw spinach + 3 slices buttered brown seeded toast + ½ avocado    |
+| **15:30–16:30 (Post-Gym Meal)** | 3 medium scrambled eggs + 50g cottage cheese + 100g raw spinach + 3 slices buttered brown seeded toast + ½ avocado    |
+| **18:00 (Evening Meal 1)**      | 500g fat-free Greek yogurt                                                                                            |
+| **19:00 (Evening Meal 2)**      | 2 oven-cooked chicken legs (550g raw weight, skin-on, with olive oil rub) + 100g dry brown rice (cooked weight ~300g) |
 
 ---
 
