@@ -9,19 +9,23 @@ _1 Hour Fast Walk (3.0 mph): ~362 KCAL_
 |Incline Dumbbell Flys|3x12-15|20kg|~51|
 |||**Total KCAL:**|**~632**|
 
-### **TUESDAY: BACK (V-SHAPE DEVELOPMENT)**
+### **TUESDAY: BACK (V-SHAPE DEVELOPMENT — OPTIMIZED)**
 
-_Morning Readiness Protocol (~10 mins): ~34 KCAL_ 
+_Morning Readiness Protocol (~10 mins): ~34 KCAL_  
 _1 Hour Fast Walk (3.0 mph): ~362 KCAL_
 
 |EXERCISE|SETSxREPS|WEIGHT RANGE|KCAL|
 |---|---|---|---|
-|Wide-Grip Lat Pull Downs|5x8-12|70kg|~82|
-|Barbell Rows|5x8-10|60kg|~93|
-|Dumbbell Pullovers|3x12-15|26kg|~51|
-|Face Pulls|4x15-20|25kg|~45|
-|||**Total KCAL:**|**~667**|
-
+|Assisted Pull-Ups|5x6-8|Band/Machine|~70|
+|Wide-Grip Lat Pulldown|4x10-12|70–75kg|~70|
+|Dumbbell Pullovers|3x12-15|28–30kg|~55|
+|Barbell Rows (hypert.)|4x8-10|85–95kg|~95|
+|Barbell Rows (strength)|1x3-5|105–110kg|~25|
+|Barbell Rows (back-off)|1x12-15|65–75kg|~20|
+|Face Pulls|4x15-20|36–40kg|~50|
+|Reverse Pec Deck / DB Rear Raises|3-4x15-20|6–10kg DBs / machine|~40|
+|Rowing Machine (steady)|8–10 mins|Moderate pace|~80|
+|||**Total KCAL:**|**~665–700**|
 ### **WEDNESDAY: SHOULDERS (HIGH VOLUME/INTENSITY)**
 
 _Morning Readiness Protocol (~10 mins): ~34 KCAL_ 

@@ -128,3 +128,4 @@ To transform the operator’s physique and performance through a precise, data-d
 - Social meals allowed only as substitutions within caloric framework
     
 - Continuous feedback loop between operator and Handler to maintain mission trajectory
+

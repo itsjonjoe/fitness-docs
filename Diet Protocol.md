@@ -1,59 +1,93 @@
 
-## **Meal Timing & Structure**
+## 1. Meal Timing & Structure
 
-| Time                            | Meal Description                                                                                                      |
-| ------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
-| **12:00–13:00 (Pre-Gym Meal)**  | 3 medium scrambled eggs + 50g cottage cheese + 100g raw spinach + 3 slices buttered brown seeded toast + ½ avocado    |
-| **15:30–16:30 (Post-Gym Meal)** | 3 medium scrambled eggs + 50g cottage cheese + 100g raw spinach + 3 slices buttered brown seeded toast + ½ avocado    |
-| **18:00 (Evening Meal 1)**      | 500g fat-free Greek yogurt                                                                                            |
-| **19:00 (Evening Meal 2)**      | 2 oven-cooked chicken legs (550g raw weight, skin-on, with olive oil rub) + 100g dry brown rice (cooked weight ~300g) |
-
----
-
-## **Daily Nutritional Overview**
-
-|Nutrient|Amount|Notes|
-|---|---|---|
-|**Calories**|~3100 kcal|Slightly pessimistic estimate to build buffer|
-|**Protein**|~225 g|High protein to maintain/grow muscle during deficit|
-|**Fat**|~138 g|Includes healthy fats from avocado & olive oil|
-|**Carbohydrates**|~195 g|Balanced carbs to support intense training & recovery|
-|**Fiber**|Moderate|From toast, spinach, avocado, and brown rice|
+### Breakfast (Scrambled Eggs on Toast)
+- 3 medium eggs (scrambled)  
+- 3 slices ASDA Wholemeal Medium bread  
+- 10g “Utterly Butterly Light” spread (per slice, 30g total)  
+- 50g spinach  
+- 75g fat-free cottage cheese  
 
 ---
 
-## **Food Items & Nutritional Data**
-
-|Food Item|Quantity|Calories|Protein (g)|Fat (g)|Carbs (g)|Notes/Comments|
-|---|---|---|---|---|---|---|
-|Medium Eggs (scrambled)|6 total|420|36|30|3|70 kcal/egg; cooked without added fat|
-|Cottage Cheese (low fat)|100g|90|10|2|4|10g protein/100g|
-|Spinach (raw)|200g|46|6|1|7|Low calorie leafy greens|
-|Avocado (whole)|150g|240|3|22|13|Healthy monounsaturated fats|
-|Brown Seeded Toast|6 slices (dry weight ~180g)|480|18|6|78|Whole grain complex carbs|
-|Greek Yogurt (fat free)|500g|290|50|0.5|15|High-protein dairy|
-|Chicken Legs (raw)|550g|1100|95|70|0|Skin-on, roasted + olive oil rub|
-|Brown Rice (dry)|100g|350|7|2.5|75|Complex carb source|
-|Olive Oil|5 ml (1 tsp)|40|0|5|0|Added for flavor and fat content|
+### Lunch (Scrambled Eggs on Toast)
+- 3 medium eggs (scrambled)  
+- 2 slices ASDA Wholemeal Medium bread  
+- 10g “Utterly Butterly Light” spread (per slice, 20g total)  
+- 50g spinach  
+- 75g fat-free cottage cheese  
 
 ---
 
-## **Key Points & Considerations**
+### Afternoon Shake (x2 per day)
+- 2 scoops whey protein  
+- 1 tsp (~15g) Greek yogurt  
+- 200ml water + 50ml semi-skimmed milk (4:1 ratio)  
+- Stevia sweetener  
 
-- **Consistent daily meals** to simplify prep and budgeting while ensuring steady nutrient intake.
-    
-- Protein intake at ~225g supports muscle retention and growth despite aggressive fat loss.
-    
-- Carbs (~195g) timed pre- and post-workout with rice at night to optimize performance and recovery.
-    
-- Fats (~138g) primarily from avocado, chicken skin, eggs, and olive oil support hormonal health and satiety.
-    
-- Total calories (~3100 kcal) create a daily **deficit of ~500 kcal** against your estimated TDEE (~3600 kcal) — supporting steady fat loss at ~0.4–0.5kg/week.
-    
-- Incorporates your supplement stack (creatine, shilajit, Platinum Pump) which supports recovery and training capacity.
-    
-- Limited seasoning calories; no added sugars or processed foods.
-    
-- Strict weighing of foods to minimize variance.
-    
-- Drink unlimited water, black coffee, Coke Zero within fasting/eating windows.
+---
+
+### Dinner (Chicken + Rice Bowl)
+- 2 chicken legs, skin-on, roasted/pan-fried with Frylight spray  
+- 60g dry brown rice (~180g cooked)  
+- ½ onion, chopped  
+- ½ bell pepper, chopped  
+- 50g spinach  
+- Vegetables fried in Frylight with Lea & Perrins Worcestershire sauce, salt, and pepper  
+
+---
+
+## 2. Daily Nutritional Overview (Estimated)
+
+| Nutrient | Amount | Notes |
+|----------|--------|-------|
+| **Calories** | ~2,535 kcal | Adjusted intake (±100 kcal variance) |
+| **Protein** | ~226 g | >2 g/kg LBM, optimal for retention |
+| **Fat** | ~100 g | Hormonal safe range (28–30% calories) |
+| **Carbohydrates** | ~187 g | Training fuel preserved |
+| **Fiber** | ~28–30 g | From bread, spinach, onion, pepper, rice |
+
+---
+
+## 3. Compliance Rules
+
+- **No snacks permitted.**  
+- **Monster Ultra** approved as hunger-control tool (≤2 cans/day).  
+  - Hard cutoff **17:00 latest** to preserve **Sleep Mandate**.  
+- **Social Meal Protocol**: substitutions only, never additions.  
+- **Hydration:** ≥2L water daily, unlimited black coffee, Coke Zero.  
+- **Food must be weighed dry** for precision.  
+
+---
+
+## 4. Seasonings & Cooking Aids (Approved)
+
+- **Frylight spray** (≤15 sprays, negligible kcal)  
+- **LoSalt** (sodium/potassium balance)  
+- **Lea & Perrins Worcestershire Sauce** (≤15ml per meal, ~13 kcal)  
+- **Cholula / Sriracha hot sauce** (≤15g, ~13 kcal)  
+- **Lemon juice** (negligible kcal)  
+- **Dry spice blends (e.g. Schwartz Korean BBQ)**  
+- **Salt & pepper** — unlimited  
+
+---
+
+## 5. Supplement Integration
+
+- **Morning stack:** AREDS2, Omega-3, Vitamin D3, Ginseng, Lion’s Mane, Shilajit, Creatine  
+- **Evening stack:** Magnesium Glycinate, Ashwagandha, optional Omega-3 split dose  
+- **Pre-workout:** Platinum Pump (training days) or Beetroot extract (rest days)  
+
+---
+
+## 6. Medical & Strategic Alignment
+
+- **BVMD support:** AREDS2 + spinach + omega-3 supplementation  
+- **Fat intake stable (~100 g/day):** avoids hormonal suppression  
+- **Protein intake optimal (~226 g/day):** protects lean mass in deficit  
+- **Caloric deficit:** ~1,050–1,100 kcal/day  
+  - **Optimistic loss:** ~0.9–1.0 kg/week  
+  - **Pessimistic loss:** ~0.7–0.8 kg/week  
+- **Target:** Reach ~90 kg by **October–early November 2025**  
+
+---

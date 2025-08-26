@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "6f59956669c11a4f",
+        "id": "9568aef5b75224de",
         "type": "tabs",
         "children": [
           {
-            "id": "121fe6c5c0e4cd02",
+            "id": "c90bf69ae51db1dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Supplements Protocol.md",
+                "file": "AI Prompt.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Supplements Protocol"
+              "title": "AI Prompt"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 238.50260543823242
   },
   "right": {
     "id": "d7f93d8f051100cc",
@@ -167,6 +167,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -176,20 +177,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "121fe6c5c0e4cd02",
+  "active": "c90bf69ae51db1dc",
   "lastOpenFiles": [
-    "Diet Protocol.md",
-    "Supplements Protocol.md",
-    "AI Prompt.md",
-    "Strategy.md",
-    "6.md",
-    "Assessment/Holistic Assessment.md",
+    "Personal Bests.md",
     "Exercise Protocol.md",
-    "Logs/Food Log.md",
     "Logs/Exercise Log.md",
+    "Diet Protocol.md",
     "Logs/Weight Log.md",
-    "Logs",
     "Assessment/Macular Dystrophy Assessment.md",
+    "Assessment/Holistic Assessment.md",
+    "Supplements Protocol.md",
+    "Strategy.md",
+    "AI Prompt.md",
+    "Logs/Food Log.md",
+    "6.md",
+    "Logs",
     "Assessment"
   ]
 }
