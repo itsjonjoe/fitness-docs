@@ -1,4 +1,35 @@
 
+## 2025-08-30 — Legs + Arms
+
+| Exercise               | Sets | Reps | Weight (kg) | Notes                           |
+| ---------------------- | ---- | ---- | ----------- | ------------------------------- |
+| Barbell Back Squats    | 5    | 8    | 75          | Solid form, working sets        |
+| Deadlifts (volume)     | 4    | 10   | 75          | Warm-up / hypertrophy pulls     |
+| Deadlifts (heavy)      | 2    | 6    | 125         | Heavy working sets              |
+| Deadlifts (heavy)      | 2    | 6    | 145         | Heavy working sets              |
+| Deadlifts (PB)         | 1    | 3    | 155         | **New PB**                      |
+| Leg Press              | 4    | 10   | 120         | Consistent at strong weight     |
+| Leg Curls (machine)    | 4    | 10   | 60          | Significant increase from prior |
+| Leg Extensions         | 4    | 10   | 60          | Solid control, no failure sets  |
+| DB Bicep Curls         | 4    | 10   | 16          | Strong consistent reps          |
+
+**Notes:** Excellent progression. Deadlift PB (155×3). Accessories (leg curls/extensions) show major strength increase. Logged for tracking.
+
+
+## 2025-08-28 — Legs (Missed, Substituted Walk)
+
+| Exercise               | Sets | Reps | Weight (kg) | Notes                           |
+| ---------------------- | ---- | ---- | ----------- | ------------------------------- |
+| Barbell Back Squats    | —    | —    | —           | Missed (gym closed)             |
+| Romanian Deadlifts     | —    | —    | —           | Missed                          |
+| Standing Lunges        | —    | —    | —           | Missed                          |
+| Leg Extensions         | —    | —    | —           | Missed                          |
+| Leg Press              | —    | —    | —           | Missed                          |
+| Leg Curls              | —    | —    | —           | Missed                          |
+| Walking                | —    | —    | —           | 2 hrs total (1 hr protocol + 1 hr extra) |
+
+**Notes:** Gym closed for maintenance. Leg session missed. Substituted with extended walking.
+
 
 
 # 2025-08-26 — Back (V-Shape Development + Walk)

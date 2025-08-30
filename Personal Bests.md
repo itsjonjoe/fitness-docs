@@ -1,6 +1,7 @@
 ### 🔹 Compound Lifts
 
 - **Deadlift:** 145 kg × 3 (2025-08-23)
+- **Deadlift:** 155 kg × 3 (2025-08-30)
     
 - **Barbell Row:** 105 kg × 6 (2025-08-26)
     
@@ -70,8 +71,6 @@
 ---
 
 ### 🔹 Lower Body Accessories
-
-- **Romanian Deadlift:** 60 kg × 10 (2025-08-07 baseline)
     
 - **Walking Lunges:** 20 kg DBs × 10 per leg (2025-08-07 baseline)
     
@@ -86,6 +85,7 @@
 
 ### 🔹 Conditioning / Other
 
+- **Rowing Machine:** 5000 m in 21:33 (~137 W avg) (2024-12-18)
 - **Rowing Machine:** 2319 m in 10:33 (~137 W avg) (2025-08-18)
     
 - **Walking:** up to 3.5 hrs @ 3.0 mph (2025-08-24 active recovery)

@@ -1,114 +1,129 @@
-## 1.0 Executive Summary
-
-The operator has achieved a comprehensive health and fitness transformation, reversing severe medical conditions while advancing toward an optimized athletic physique. Since leaving prison on May 24, 2025, at 117 kg, the operator has reduced weight to 104.5 kg as of late July 2025. This represents sustained fat loss combined with strength retention and improved functional capacity.
-
-The current focus is on reducing body fat to the target range of 12–15% while maintaining muscle mass and performance, leveraging precise nutrition, disciplined training, and recovery protocols. Predictive modeling estimates achieving 94 kg within 3–4 months, assuming consistent adherence.
+---
+title: Holistic Assessment
+date: 2025-08-30
+tags: [project-viking, assessment, fitness, nutrition, lifestyle, baseline]
+---
+## 1. Identity & Trajectory
+You are in the midst of a long-term transformation, moving from a survival-driven weight crisis (160 kg, 2018) into a structured, disciplined pursuit of the **“functional warrior / muscular Viking”** archetype. The past six years show consistent phases of adaptation: diet-driven loss, activity foundation, structured strength training, and now accelerated recomposition. Your trajectory is clear: steady fat loss while retaining or increasing strength, with increasing emphasis on mobility, conditioning, and aesthetics.  
 
 ---
 
-## 2.0 Historical Transformation Overview
-
-- **2018–2021:** Initial crisis intervention—weight decreased from 160 kg to 130 kg using intermittent fasting and ketogenic diet.
-    
-- **2021–2023:** Moderate activity increase with cycling and airsoft, reducing weight to 120 kg.
-    
-- **2023–May 2025:** Intensive gym training and high-protein nutrition led to 117 kg at prison release.
-    
-- **May 2025–Present:** Post-release phase focused on accelerated fat loss, now at 104.5 kg.
-    
-
-This timeline highlights consistent long-term adherence and progressive adaptation across multiple lifestyle changes.
-
----
-
-## 3.0 Current Body Composition and Metabolic Status
-
-- **Weight:** 104.5 kg (July 2025)
-    
-- **Body Fat:** Approximately 25%
-    
-- **Muscle Mass:** Approximately 42%
-    
-- **BMI:** 34 (reflecting increased muscle mass influence)
-    
-- **Basal Metabolic Rate (BMR):** ~2066 kcal/day
-    
-- **Total Daily Energy Expenditure (TDEE):** ~3600 kcal/day (activity factor 1.75)
-    
-- **Current Intake:** ~3255 kcal/day
-    
-- **Estimated Deficit:** ~345 kcal/day, creating a sustainable fat loss buffer
-    
-- **Projected Fat Loss Rate:** 0.4–0.6 kg per week, consistent with caloric deficit estimates (roughly 7700 kcal per kg fat)
-    
-- **Metabolic Age:** Estimated at 26 years, indicating superior metabolic health relative to chronological age
-    
+## 2. Current Physical Profile
+- **Weight:** 104.5 kg  
+- **Body Fat:** ~25%  
+- **Muscle Mass:** ~42%  
+- **Hydration:** 56%  
+- **BMI:** 34 (muscular skew)  
+- **Metabolic Age:** 26  
+- **Basal Metabolic Rate (BMR):** ~2066 kcal  
+- **TDEE:** ~3600 kcal (activity factor 1.75)  
+- **Blood Pressure:** Normal at last check  
+- **Resting Heart Rate:** 50–55 bpm  
+- **Fast Walk HR:** ~120 bpm  
+- **Medical Considerations:** BVMD (retinal), mild shoulder strain (Evercide)  
 
 ---
 
-## 4.0 Training and Performance Summary
+## 3. Training & Performance
 
-Training follows a 6-day split emphasizing volume and intensity while managing fatigue and recovery. Programming includes German Volume Training (GVT) for hypertrophy on priority muscle groups and progressive overload protocols.
+**Current Protocol:**  
+- 6-day split (Chest, Back, Shoulders, Legs, Arms, Weak Point Pump)  
+- Methods: German Volume Training (GVT), hypertrophy, progressive overload  
+- Daily 1-hour fast walks + readiness calisthenics  
+- Active recovery Sundays  
 
-Recovery strategies include scheduled deloads triggered by performance and recovery metrics, as well as active recovery protocols to optimize adaptation and reduce injury risk.
-
-Recent performance indicators demonstrate maintenance or improvement in key lifts despite caloric deficit, confirming effective programming and recovery management.
-
----
-
-## 5.0 Nutritional Protocol
-
-The diet prioritizes consistent daily intake with precision-measured portions to maintain a moderate caloric deficit while supporting muscle retention. Core foods include eggs, chicken drumsticks, brown rice (approximately 80g dry weight daily), spinach, Greek yogurt, and whole-grain bread.
-
-Social meals adhere to a “substitution protocol,” meaning social meals replace planned meals rather than add additional calories, ensuring no caloric surplus during social occasions.
-
-Macronutrient targets focus on high protein intake to support muscle preservation, with moderate carbohydrates and fats adjusted for energy balance.
-
-Daily food logging and compliance monitoring maintain adherence above 95%.
-
----
-
-## 6.0 Recovery and Systemic Health
-
-Sleep quality is prioritized with a non-negotiable target of 8 hours per night, monitored via sleep tracking devices and subjective recovery scoring. Recovery scores are integrated into training and nutrition adjustments to prevent overtraining and optimize adaptation.
-
-Macular dystrophy management remains a key medical consideration. Cortisol regulation strategies, including morning readiness calisthenics, support visual health alongside systemic stress management.
-
-Biomarkers including sleep quality, stress levels, and recovery metrics are tracked with clinical precision to inform protocol modifications.
+**Personal Bests (2025):**  
+- **Deadlift:** 145 kg × 3  
+- **Back Squat:** 100 kg × 6 (depth just past 90°)  
+- **Barbell Row:** 105 kg × 6  
+- **Clean & Press:** 55 kg × 5  
+- **Bench Press:** 100 kg × 3 (July PB)  
+- **Dumbbell Chest Press:** 40 kg × 3  
+- **Seated DB Shoulder Press:** 30 kg × 6  
+- **Pull-downs:** Wide 70 kg × 8, Narrow 66 kg × 10  
+- **Rowing:** 5k — 21:28 (~2:09/500m)  
+- **Walking:** up to 3.5 hrs @ 3.0 mph  
 
 ---
 
-## 7.0 Data Integration and Monitoring
+## 4. Nutrition
+- **Calories:** ~2,535 kcal/day  
+- **Macros:** 226 g protein, 100 g fat, 187 g carbs, 28–30 g fiber  
+- **Core Foods:** eggs, chicken, whey, bread, brown rice, cheese, cottage cheese, avocado, chicken skin, milk  
+- **Compliance:** ~95% adherence  
 
-All physical activity, nutrition, and recovery metrics are systematically logged and analyzed. The Handler system provides predictive analytics reviewed daily and weekly, enabling proactive adjustments to training and nutrition protocols based on rolling trends and performance indicators.
-
-For example, recent analytics have preemptively triggered deloads following subtle declines in recovery scores, optimizing training load and preventing overreach.
-
-Red line alerts for recovery scores ≤4/10, missed key lifts, or visual symptoms trigger immediate protocol modification to safeguard health and progress.
-
----
-
-## 8.0 Projected Path Forward
-
-Assuming continued protocol adherence, the operator is on track to reach the target weight of 94 kg within 3–4 months. This will correspond with improved body composition and enhanced functional strength.
-
-Ongoing priorities include:
-
-- Maintaining current nutritional precision and training intensity.
-    
-- Continued management of systemic health, particularly visual health.
-    
-- Leveraging data analytics to anticipate plateaus and optimize recovery.
-    
-- Establishing contingency protocols for potential disruptions, including injury or illness.
-    
-- Integrating psychological and lifestyle support to enhance adherence and long-term sustainability.
-    
+**Supplements:**  
+- **Morning:** AREDS2, Omega-3, Vit D3, Korean Ginseng, Lion’s Mane, B12, optional Folic Acid, Shilajit, Maca, Creatine, Platinum Pump/Beetroot  
+- **Evening:** Magnesium glycinate, Ashwagandha, optional Omega-3  
 
 ---
 
-## Summary
+## 5. Recovery
+- **Sleep:** 8 hrs regular, occasional 3 hr nights  
+- **Muscle recovery window:** 72–90 hrs for taxed groups  
+- **Future:** weekly massage when budget allows  
 
-The operator demonstrates strong adherence to a data-driven, medically informed regimen producing consistent fat loss and strength retention. Historical data and current metrics support confident projections for continued progress toward the “Muscular Viking” aesthetic and “Functional Warrior” capability goals.
+---
 
-This assessment reflects the latest body composition data, metabolic rates, and performance indicators, forming a clear basis for ongoing protocol optimization.
+## 6. Mobility
+- **Hamstrings/Hips:** Excellent (palms to floor, no pain)  
+- **Shoulders:** Moderate restriction (~hand-width separation)  
+- **Squat:** Stable, heels down, just past 90°  
+- **Hip External Rotation:** Very comfortable  
+- **Thoracic Rotation:** 75–90°, smooth, slight clicking  
+
+---
+
+## 7. Aesthetic Baseline
+- **Hair:** Long topknot/braid, shaved sides  
+- **Beard:** Full, dense, medium-long  
+- **Clothing:** Logged — strong gym wardrobe, basic casual wear, underdeveloped smart/smart casual sets  
+- **Accessories:** Smartwatch, sunglasses  
+- **Tattoos:** None yet  
+
+---
+
+## 8. Lifestyle & Context
+- **Work:** Remote, flexible, allows full training schedule  
+- **Finances:** Low income (£400 + £100) temporarily; will increase in ~2 months  
+- **Gym Access:** 24/7, full equipment  
+- **Support:** Independent, supplemented by friends/family until stable  
+- **Future Investments:** Weekly massage, expanded wardrobe, tattoos  
+
+---
+
+## 9. Historical Timeline
+
+**2018–2021 | Crisis Phase**  
+- 160 kg → 130 kg  
+- Method: intermittent fasting + keto  
+- Focus: fat reduction, survival reset  
+- Notes: diet-driven, little hypertrophy  
+
+**2021–2023 | Activity Phase**  
+- 130 kg → 120 kg  
+- Method: cycling, airsoft  
+- Focus: daily activity, conditioning  
+- Notes: modest fat loss, no structured gym  
+
+**2023–May 2025 | Intensive Gym Phase**  
+- 120 kg → 117 kg at release (May 24, 2025)  
+- Method: gym training + high-protein nutrition  
+- Focus: hypertrophy and strength foundation  
+
+**May 2025–Present | Acceleration Phase**  
+- 117 kg → 104.5 kg (Aug 2025)  
+- Body fat ~25%, muscle mass ~42%  
+- Method: structured lifting, cardio, strict nutrition  
+- Outcome: –12.5 kg in ~3 months, strength maintained, cardio base added  
+
+**Projected (Q4 2025 – Q1 2026)**  
+- Target: ~94 kg, 12–15% body fat  
+- Focus: definition, functional strength, improved endurance  
+
+---
+
+## 10. Overall Assessment
+You are a **high-discipline, data-driven operator** midway through a successful recomposition. Strength is well-developed, cardio capacity lags but improving. Nutrition and supplementation are tightly managed. Mobility is strong except for shoulders. Aesthetics are powerful but still raw; refinement in clothing, grooming, and body composition will sharpen the Viking archetype.  
+
+Trajectory is positive, sustainable, and anchored by resilience and adaptability.  
